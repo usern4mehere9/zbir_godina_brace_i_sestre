@@ -1,0 +1,16 @@
+C:\Users\Nikola\source\repos\zbir_godina_brace_i_sestre\zbir_godina_brace_i_sestre\bin\Debug\net5.0\zbir_godina_brace_i_sestre.exe
+C:\Users\Nikola\source\repos\zbir_godina_brace_i_sestre\zbir_godina_brace_i_sestre\bin\Debug\net5.0\zbir_godina_brace_i_sestre.deps.json
+C:\Users\Nikola\source\repos\zbir_godina_brace_i_sestre\zbir_godina_brace_i_sestre\bin\Debug\net5.0\zbir_godina_brace_i_sestre.runtimeconfig.json
+C:\Users\Nikola\source\repos\zbir_godina_brace_i_sestre\zbir_godina_brace_i_sestre\bin\Debug\net5.0\zbir_godina_brace_i_sestre.runtimeconfig.dev.json
+C:\Users\Nikola\source\repos\zbir_godina_brace_i_sestre\zbir_godina_brace_i_sestre\bin\Debug\net5.0\zbir_godina_brace_i_sestre.dll
+C:\Users\Nikola\source\repos\zbir_godina_brace_i_sestre\zbir_godina_brace_i_sestre\bin\Debug\net5.0\ref\zbir_godina_brace_i_sestre.dll
+C:\Users\Nikola\source\repos\zbir_godina_brace_i_sestre\zbir_godina_brace_i_sestre\bin\Debug\net5.0\zbir_godina_brace_i_sestre.pdb
+C:\Users\Nikola\source\repos\zbir_godina_brace_i_sestre\zbir_godina_brace_i_sestre\obj\Debug\net5.0\zbir_godina_brace_i_sestre.csproj.AssemblyReference.cache
+C:\Users\Nikola\source\repos\zbir_godina_brace_i_sestre\zbir_godina_brace_i_sestre\obj\Debug\net5.0\zbir_godina_brace_i_sestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\zbir_godina_brace_i_sestre\zbir_godina_brace_i_sestre\obj\Debug\net5.0\zbir_godina_brace_i_sestre.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\zbir_godina_brace_i_sestre\zbir_godina_brace_i_sestre\obj\Debug\net5.0\zbir_godina_brace_i_sestre.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\zbir_godina_brace_i_sestre\zbir_godina_brace_i_sestre\obj\Debug\net5.0\zbir_godina_brace_i_sestre.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\zbir_godina_brace_i_sestre\zbir_godina_brace_i_sestre\obj\Debug\net5.0\zbir_godina_brace_i_sestre.dll
+C:\Users\Nikola\source\repos\zbir_godina_brace_i_sestre\zbir_godina_brace_i_sestre\obj\Debug\net5.0\ref\zbir_godina_brace_i_sestre.dll
+C:\Users\Nikola\source\repos\zbir_godina_brace_i_sestre\zbir_godina_brace_i_sestre\obj\Debug\net5.0\zbir_godina_brace_i_sestre.pdb
+C:\Users\Nikola\source\repos\zbir_godina_brace_i_sestre\zbir_godina_brace_i_sestre\obj\Debug\net5.0\zbir_godina_brace_i_sestre.genruntimeconfig.cache

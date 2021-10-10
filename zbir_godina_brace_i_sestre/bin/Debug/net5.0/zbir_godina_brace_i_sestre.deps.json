@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "zbir_godina_brace_i_sestre/1.0.0": {
+        "runtime": {
+          "zbir_godina_brace_i_sestre.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zbir_godina_brace_i_sestre/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
